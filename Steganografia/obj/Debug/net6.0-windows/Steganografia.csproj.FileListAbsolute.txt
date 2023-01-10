@@ -1,0 +1,17 @@
+C:\Users\Champa\Documents\Code\C#\Steganografia\Steganografia\obj\Debug\net6.0-windows\Steganografia.csproj.AssemblyReference.cache
+C:\Users\Champa\Documents\Code\C#\Steganografia\Steganografia\obj\Debug\net6.0-windows\Steganografia.Form1.resources
+C:\Users\Champa\Documents\Code\C#\Steganografia\Steganografia\obj\Debug\net6.0-windows\Steganografia.csproj.GenerateResource.cache
+C:\Users\Champa\Documents\Code\C#\Steganografia\Steganografia\obj\Debug\net6.0-windows\Steganografia.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Champa\Documents\Code\C#\Steganografia\Steganografia\obj\Debug\net6.0-windows\Steganografia.AssemblyInfoInputs.cache
+C:\Users\Champa\Documents\Code\C#\Steganografia\Steganografia\obj\Debug\net6.0-windows\Steganografia.AssemblyInfo.cs
+C:\Users\Champa\Documents\Code\C#\Steganografia\Steganografia\obj\Debug\net6.0-windows\Steganografia.csproj.CoreCompileInputs.cache
+C:\Users\Champa\Documents\Code\C#\Steganografia\Steganografia\bin\Debug\net6.0-windows\Steganografia.exe
+C:\Users\Champa\Documents\Code\C#\Steganografia\Steganografia\bin\Debug\net6.0-windows\Steganografia.deps.json
+C:\Users\Champa\Documents\Code\C#\Steganografia\Steganografia\bin\Debug\net6.0-windows\Steganografia.runtimeconfig.json
+C:\Users\Champa\Documents\Code\C#\Steganografia\Steganografia\bin\Debug\net6.0-windows\Steganografia.dll
+C:\Users\Champa\Documents\Code\C#\Steganografia\Steganografia\bin\Debug\net6.0-windows\Steganografia.pdb
+C:\Users\Champa\Documents\Code\C#\Steganografia\Steganografia\obj\Debug\net6.0-windows\Steganografia.dll
+C:\Users\Champa\Documents\Code\C#\Steganografia\Steganografia\obj\Debug\net6.0-windows\refint\Steganografia.dll
+C:\Users\Champa\Documents\Code\C#\Steganografia\Steganografia\obj\Debug\net6.0-windows\Steganografia.pdb
+C:\Users\Champa\Documents\Code\C#\Steganografia\Steganografia\obj\Debug\net6.0-windows\Steganografia.genruntimeconfig.cache
+C:\Users\Champa\Documents\Code\C#\Steganografia\Steganografia\obj\Debug\net6.0-windows\ref\Steganografia.dll
